@@ -53,7 +53,7 @@ HYPERTUNE_SETTINGS = """
             {
                 "parameterName": "max_iter",
                 "type": "DISCRETE",
-                "discreteValues": [500, 1000, 1500]
+                "discreteValues": [500, 1000, 2500]
             },
             {
                 "parameterName": "alpha",
